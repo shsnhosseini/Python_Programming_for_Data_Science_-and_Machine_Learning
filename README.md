@@ -21,6 +21,8 @@ A learning repository covering Data science libraries, with practical examples a
 
 ## 📖 Resources
 
+- Book: “Introduction to Programming in Python, An Interdisciplinary Approach” by Robert Sedgewick, Kevin Wayne and Robert Dondero
+- Book: “Practical Linear Algebra for Data Science, From Core Concepts to Applications Using Python” by Mike X Cohen
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
