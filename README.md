@@ -29,5 +29,3 @@ A learning repository covering Data science libraries, with practical examples a
 - [Python Documentation](https://docs.python.org/3/)
 
 ---
-
-Feel free to modify and expand upon the examples as you explore Python programming for data science. 📊
